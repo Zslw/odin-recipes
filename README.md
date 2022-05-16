@@ -1,5 +1,5 @@
 # odin-recipes
-As instructed in theodinproject.com
+As instructed in [The odin project](theodinproject.com)
 
 
 This is for understanding the foundations on HTML while creating a list of recipies.
